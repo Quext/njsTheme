@@ -73,7 +73,7 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 	## Widget Tag Cloud
 	## Widget Text
 	## NewsCard Widget Horizontal/Vertical Posts
-	## NewsCard Widget Recent Posts
+	## NewsCard Widget sRecent Posts
 	## NewsCard Widget Card/Block Posts
 # Footer
 # Media Queries
@@ -84,11 +84,11 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 # Reset
 --------------------------------------------------------------*/
 ::selection {
-	background: #c80000;
+	background: #12ed56;
 	color: #fff;
 }
 ::-moz-selection {
-	background: #c80000;
+	background: #c99000;
 	color: #fff;
 }
 ul,
